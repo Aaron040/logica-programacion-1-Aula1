@@ -1,1 +1,1 @@
-Este es el primer repositorio subido
+Este es el primer repositorio subido para el curso Oracle One
